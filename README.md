@@ -297,18 +297,6 @@ Planned or active next-step areas include:
 
 ---
 
-## License / repository notes
-
-Add your license here if this repository will be public.
-
-You may also want to add:
-- screenshots or GIFs
-- example worlds or demo media
-- contribution guidelines
-- issue templates
-- roadmap / milestone links
-
----
 
 ## Summary
 
